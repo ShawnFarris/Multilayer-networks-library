@@ -21,5 +21,5 @@ try:
 except ImportError: #in case networkx is not installed
     pass
 
-# from . import sampling
+from . import sampling
 
